@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gym_app</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_description">description</string>
+    <string name="title_text">exercise name</string>
+    <string name="subtitle_text">level</string>
+</resources>
